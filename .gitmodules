@@ -1,9 +1,0 @@
-[submodule "TheOdinProject"]
-	path = TheOdinProject
-	url = git@github.com:deviweik/TheOdinProject.git
-[submodule "css-exercises"]
-	path = css-exercises
-	url = git@github.com:deviweik/css-exercises
-[submodule "odin-recipes"]
-	path = odin-recipes
-	url = git@github.com:deviweik/odin-recipes
