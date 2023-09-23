@@ -1,7 +1,7 @@
 [submodule "nonogram"]
 	path = nonogram
-	url = git@github.com:deviweik/nonogram.git
+	url = https://github.com/deviweik/nonogram
 
 [submodule "OdinProject"]
 	path = OdinProject
-	url = git@github.com:deviweik/TheOdinProject.git
+	url = https://github.com/deviweik/TheOdinProject
