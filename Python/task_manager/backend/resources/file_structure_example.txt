@@ -1,0 +1,25 @@
+project/
+│
+├── app/
+│   ├── __init__.py
+│   ├── routes/
+│   │   ├── __init__.py
+│   │   ├── auth.py
+│   │   ├── tasks.py
+│   ├── models.py
+│   ├── templates/
+│   │   ├── base.html
+│   │   ├── index.html
+│   ├── static/
+│   │   ├── css/
+│   │   ├── js/
+│   │   ├── img/
+│   ├── config.py
+│   ├── forms.py
+│   ├── utils.py
+├── tests/
+│   ├── test_routes.py
+│   ├── test_models.py
+├── task_manager.db
+├── run.py
+├── requirements.txt
